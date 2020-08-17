@@ -1,0 +1,13 @@
+{
+    "name": "Yes",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/vanilla": true,
+        "/category/asset_value_tracking/token": true,
+        "/category/asset_value_tracking/token/name": "Yes",
+        "/category/asset_value_tracking/token/symbol": "Yes",
+        "/category/asset_value_tracking/token/decimals": "1",
+        "/category/asset_value_tracking/token/supply": "1000000"
+    }
+}
